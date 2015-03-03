@@ -4,3 +4,7 @@ directory .git is created with file that enable version control
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a directory where files are located for a limited period of time. It enables you to combine different files in a single commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use command git diff --staged to see the difference between the files in the staging area and the last commit in the repository
+
