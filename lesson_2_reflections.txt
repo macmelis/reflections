@@ -14,3 +14,6 @@ Create a new branch for experiments or different language version. They help you
 
 How do the diagrams help you visualize the branch structure?
 You wich commit belongs to wich branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+To branches are merged to one, we stil can go back to commits before the merge.
