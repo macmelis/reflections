@@ -1,0 +1,11 @@
+﻿* Easy version controle
+* Easy bug fixing
+* 
+
+Pros on manual commit. 
+* Logical commits
+* Make sure that every commit is a working version
+* Commits are not to small or big
+Cons on manual commits:
+* chance of forgetting to commit
+*
